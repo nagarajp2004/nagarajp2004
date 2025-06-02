@@ -2,13 +2,13 @@
 
 🎓 I'm a Computer Science student passionate about coding, databases, and full-stack development.  
 💻 I love building efficient applications and exploring new technologies.  
-📚 Currently learning: AWS, DevOps, and advanced Data Structures.
+📚 Currently learning: AWS, DevOps, advanced Data Structures and fullstack.
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, C, JavaScript, SQL  
 - **Web**: HTML, CSS, React, Vite  
 - **Database**: MySQL, PostgreSQL  
-- **Cloud**: AWS (Basics)  
+- **Cloud**: AZURE
 - **Tools**: Git, GitHub, VS Code, Linux
 
 ## 💡 Interests
