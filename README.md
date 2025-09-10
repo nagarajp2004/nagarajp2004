@@ -5,7 +5,7 @@
 📚 Currently learning: AWS, DevOps, advanced Data Structures and fullstack.
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, C++, JavaScript, SQL ,golang 
+- **Languages**: Python, C++, JavaScript, SQL ,java
 - **Web**: HTML, CSS, React, Vite  
 - **Database**: MySQL, PostgreSQL  
 - **Cloud**: AZURE
